@@ -10,7 +10,9 @@ Introduction/Project summary
 WebGL, Mobile, VR Device incl. reference resolution 
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<div>
+<img src="./screenshots/weihmachtsspiel_Kopie.pdf" width="250">
+</div>
 
 ### Necessary setup/execution steps: 
 Installation process, e.g. step by step instructions that I can run the project after cloning it
