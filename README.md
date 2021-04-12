@@ -23,6 +23,12 @@ Installation process, e.g. step by step instructions that I can run the project 
 ### Project state: 
 incl. progress in percent
 
+### Bullet points MVP:
+-2D-Projekt
+-Ein Counter für die Geschenke
+-Timer 
+-Einen Punkt Abzug, für die brennenden Geschenke
+
 ### Limitations: 
 
 ### Lessons Learned: 
